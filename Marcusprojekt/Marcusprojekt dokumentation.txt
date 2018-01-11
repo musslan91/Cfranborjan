@@ -1,0 +1,6 @@
+Detta program är en räknare med spänningar i olika former.
+Den går igenom Ohms lag, effektlagen, aktiva effekter,
+skenbara effekter, effekter i 3-fas växelströmmar o.s.v.
+Väldigt strait foward och har inga större kommentarer på min kod
+i allmänhet. Gjorde detta program med lite försmak av elläran
+som kommer komm i nästa kurs "Datalogi".

@@ -1,0 +1,10 @@
+Jämföra tal kapitel 3
+jämföra flyttal
+
+double X = 10.0000000001
+double y = 9.9999999999
+if(x==y)
+if(x-y < 0.00000000001
+e-10
+
+10^-10

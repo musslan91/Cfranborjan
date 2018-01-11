@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1476304010 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgift7.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"temperatur.h"
+
+1476303724 c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgift7.1\temperatur.h
+	<stdio.h>
+

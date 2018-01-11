@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478176286 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\structer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

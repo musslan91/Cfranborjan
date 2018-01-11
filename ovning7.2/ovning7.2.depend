@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1476173631 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\ovning7.2\funktionsbibliotek.c
+	<stdio.h>
+	"funktionsbibliotek.h"
+
+1476173224 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\ovning7.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funktionsbibliotek.h"
+
+1476108633 c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\ovning7.2\funktionsbibliotek.h
+

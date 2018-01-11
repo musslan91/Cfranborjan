@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476698956 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\ovning8.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

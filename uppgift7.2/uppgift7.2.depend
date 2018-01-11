@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1476305436 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgift7.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fibonacci.h"
+
+1476305505 c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgift7.2\fibonacci.h
+	<stdio.h>
+	<stdlib.h>
+

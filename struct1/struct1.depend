@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485172313 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\struct1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

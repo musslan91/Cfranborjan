@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1477745404 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\marcusprojekt\funktioner.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	"funktioner.h"
+
+1477746030 c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\marcusprojekt\funktioner.h
+
+1478595270 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\marcusprojekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<stdbool.h>
+	"funktioner.h"
+

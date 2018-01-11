@@ -1,0 +1,8 @@
+I denna kod jag gjort fungerar enbart uppgift A convert_to_base och början på uppgift B
+convert_to_base_frac men den funkar ej så kommentera bort den gärna efter du ser vad jag
+har försökt göra och påbörjat. Det finns även pseudokod från Eric Postpischil från
+stackoverflow hur man kan göra det, men kom inte på hur han ville man skulle göra det i kod.
+Tyvärr så är mina kunskaper inte starka just nu och lovar att jobba hårdare med det.
+Jag förstår din kod Tomki vad alla pekare till char funktionerna och de definerade testerna
+du vill att mina funktioner i C - filen ska klara av med hjälp av min kod definera/göra kroppen
+för den tomma funktionen.

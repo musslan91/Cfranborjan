@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483916818 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\julprojektmarcusbase\main.c
+	<stdio.h>
+	<string.h>
+	"tester.h"
+
+1483902120 c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\julprojektmarcusbase\tester.h
+

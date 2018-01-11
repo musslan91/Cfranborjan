@@ -1,0 +1,28 @@
+Frivillig extrauppgift för er som är klara med kapitel 3 och vill träna lite mer utan hjälp från boken
+
+av Tomas Berggren - Thursday, 22 September 2016, 15:49
+
+
+
+
+Skriv ett program som frågar efter en månad och rapporterar hur många dagar den månaden har
+
+
+
+använd ramsam 30 dagar har november, april, juni och september, 28 februari allen, alla de övriga trettioen ifall ni är osäkra på hur många dagar respektive månad har. 
+
+
+
+Använd if-sats eller switchsats.
+
+
+
+Ersätt månadsnamnen med ett heltal för att underlätta, t.ex. 1 för januari och så vidare
+
+En körning kan se ut så här:
+
+Ange en månad, 1 för januari, 2 för februari och så vidare
+
+2
+
+Månaden du angett (2) har 28 dagar

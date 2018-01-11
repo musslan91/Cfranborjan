@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1477910710 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\repetitionovning6.1\funktioner.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funktioner.h"
+
+1477910710 c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\repetitionovning6.1\funktioner.h
+
+1477910710 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\repetitionovning6.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funktioner.h"
+

@@ -1,0 +1,4 @@
+miniraknare:
+	gcc -o miniraknare main.c funktioner.c
+
+mingw32-make för att göra en körbara makefile och sedan finns exe filen i mappen.

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476275156 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\ovning7.6\kolapp.c
+	<stdio.h>
+	<stdlib.h>
+	"kolapp.h"
+
+1476267917 c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\ovning7.6\kolapp.h
+
+1476275849 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\ovning7.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"kolapp.h"
+

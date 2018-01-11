@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1477920246 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\miniräknare2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funktioner.h"
+
+1477919425 c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\miniräknare2\funktioner.h
+
+1477920172 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\miniräknare2\funktioner.c
+	<stdio.h>
+	<stdlib.h>
+	"funktioner.h"
+

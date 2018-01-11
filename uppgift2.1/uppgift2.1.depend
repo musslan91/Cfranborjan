@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475058762 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgift2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+

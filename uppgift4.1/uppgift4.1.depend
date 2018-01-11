@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475055184 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgift4.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

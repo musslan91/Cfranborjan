@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1476193925 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgift7.3\funktionsbibliotek.c
+	<stdio.h>
+	"funktionsbibliotek.h"
+
+1476191848 c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgift7.3\funktionsbibliotek.h
+
+1476193867 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgift7.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funktionsbibliotek.h"
+

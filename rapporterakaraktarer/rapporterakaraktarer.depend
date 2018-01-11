@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476973060 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\rapporterakaraktarer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

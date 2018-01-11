@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1476883937 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgiftmedelvmedianarray\funktionarray.c
+
+1476881557 c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgiftmedelvmedianarray\headerarray.h
+
+1476886703 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\uppgiftmedelvmedianarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headerarray.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483902189 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\julprojektmarcusdecimal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

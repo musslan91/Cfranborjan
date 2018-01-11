@@ -1,0 +1,52 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int points;
+
+    printf("Write your point\n");
+    scanf("%d", &points);
+
+
+
+
+    if(points>44){
+
+    printf("Your grade is A\n");
+    }
+
+
+   else if(points>40){
+
+    printf("Your grade is B\n");
+
+   }
+
+    if(points>35){
+
+    printf("Your grade is C\n");
+    }
+
+
+   else if(points>31){
+
+    printf("Your grade is D\n");
+   }
+  else  if(points>26){
+
+    printf("Your grade is E\n");
+   }
+    else if(points>21){
+
+        printf("your grade is F\n");
+
+
+    }
+
+    return 0;
+
+
+
+
+}
